@@ -5,6 +5,7 @@ public class C01 {
 
         //C:\Users\HP\Desktop\GithubDersi
         System.out.println("merhaba");
+        System.out.println("merhaba ");
 
 
         // git init komutu ile birlikte bir workindirectory i git ile irtibatlandirir
