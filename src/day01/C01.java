@@ -26,6 +26,17 @@ public class C01 {
         siyah :bu class bir versiyonda son haliyle yedeklendi
         sonrasında bir degisklik yapılmadi.
 
+        3. git push : local repoda depo commit ettigimiz dosyalarımızı uzak masaustune yollamak icin
+        githuba kullanılır
+
+
+            Local bilgisayarda olusturdugumuz repoyu bir repoyu githuba yollamak ve orda yedeklemek istersek
+            oncelikle Github hesabı olusturmamiz ve sonrasında proejemizi gonderecegimiz github reposunu
+            hazirlamak gerekiyor
+
+            Githubda yeni bir repository olusturdugumuzda ilk kullanımda local repo ile remote repo arasında
+            baglantı kurmamız gerekir
+
          */
     }
 }
