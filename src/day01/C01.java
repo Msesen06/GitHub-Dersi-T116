@@ -19,6 +19,13 @@ public class C01 {
         yazılan commit isminin anlamlı olmasında fayda vardır.
         ilerleyen asamalarda hangi commite donmek isteyecegimizi acıklamalardan bulabiliriz.
 
+        git ile ilisiklendiridigimiz dosyadaki class isimleri git durumuna gore renklenir
+
+        kırmızı : bu class herhangi  bir versiyona eklenmedi
+        mavi : bu dosya bir versiyona eklendi ama sonradan degisklik yapılmıs
+        siyah :bu class bir versiyonda son haliyle yedeklendi
+        sonrasında bir degisklik yapılmadi.
+
          */
     }
 }
