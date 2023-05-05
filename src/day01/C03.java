@@ -18,7 +18,7 @@ public class C03 {
 
             son yapılan commit gecrsiz kılıp bir onceki commite donmek :
             1- revert hash kodu diyerek son commit silinir
-            burası yanlıs oldu silincek
+            acıklama silindi
          */
 
 
