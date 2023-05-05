@@ -11,6 +11,12 @@ public class branchKullanimi {
         git branc : icinde bulunulan brancı gosterir ve listesini
         git branch ad: ad isminde bir branch olusturur.
         git checkout adi : o brancha gecer.
+
+        olusturdugumuz yeni branch'da istedgimiz degisiklikleri yaptıktan sonra
+        bu degisiklerin main branche islenmesini istiyorsak
+            1- once main branche geceriz git checkout main komutu ile
+            2-main branch te iken deneme brancındaki degisiklikleri kaydederiz
+            git merge deneme komutu ile
          */
     }
 }
