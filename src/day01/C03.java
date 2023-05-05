@@ -6,6 +6,7 @@ public class C03 {
         /*
         kisisel kullanımda eski bir commite gitmek icin tek bir komut yeterlidir.
         ancak commit yaparak son halini gondermeliyiz.
+
          */
     }
 }
