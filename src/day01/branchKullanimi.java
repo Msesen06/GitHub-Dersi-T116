@@ -17,6 +17,7 @@ public class branchKullanimi {
             1- once main branche geceriz git checkout main komutu ile
             2-main branch te iken deneme brancındaki degisiklikleri kaydederiz
             git merge deneme komutu ile
+            main icinn v commit eklendi
          */
     }
 }
