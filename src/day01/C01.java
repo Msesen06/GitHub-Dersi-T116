@@ -39,5 +39,6 @@ public class C01 {
             baglantı kurmamız gerekir
 
          */
+        String isim ="ahmet";
     }
 }
