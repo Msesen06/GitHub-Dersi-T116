@@ -6,7 +6,7 @@ public class C03 {
         /*
         kisisel kullanımda eski bir commite gitmek icin tek bir komut yeterlidir.
         ancak commit yaparak son halini gondermeliyiz.
-        /*
+
         kisisel kullanımda eski bir commite gitmek icin tek bir komut yeterlidir.
         ancak commit yaparak son halini gondermeliyiz.
             eski bir commite donup inceledikten sonra tekrar eski commite donmek:
@@ -17,9 +17,28 @@ public class C03 {
         4- tekrar eski commite donmek icin son commitin hash kodu yazılır git checkout 234567
 
             son yapılan commit gecrsiz kılıp bir onceki commite donmek :
-            1- revert hash kodu diyerek son commit silinir
-            acıklama silindi
+            1- son halini commit yapın push edin
+            2- revert islemi  icin git revert hash kodu
+         not: geriye gitme islemleinde local repo ile remote repo birbirinden farklılasacagı icin
+         geriye dondukten sonra baska ilem yapmadan mutlaka remote repoyu guncellemek gerekir.
+
+         checkout :commitler arasında gecis yapar.
+         revert : geriye dondurur ve o halini otmatik olarak commit eder
          */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }
